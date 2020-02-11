@@ -23,7 +23,7 @@
 {"time":"0.0630","action":"press Key.enter"},
 {"time":"0.0788","action":"release Key.enter"},
 {"time":"1.1334","action":"move 504 89"},
-{"time":"0.0568","action":"scroll 452 294 0 -1"},			鼠标滚轮华东一格
+{"time":"0.0568","action":"scroll 452 294 0 -1"},			鼠标滚轮滑动一格
 {"time":"0.0736","action":"move 429 671"},
 {"time":"0.6384","action":"click 429 663 Button.left True"}, 鼠标左键按下
 {"time":"0.0741","action":"click 429 663 Button.left False"},鼠标左键抬起
